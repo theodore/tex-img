@@ -1,1 +1,1 @@
-#Example to include an image in a TeX document.
+# Example to include an image in a TeX document.
